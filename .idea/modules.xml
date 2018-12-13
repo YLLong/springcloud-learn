@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" />
     </modules>
   </component>
 </project>
