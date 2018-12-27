@@ -1,0 +1,17 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: client
+eureka:
+  instance:
+    metadata-map:
+      zone: zone1
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      zone1: http://loclahost:8761/eureka/,http://localhost:8762/eureka/
+      zone2: http://localhost:8763/eureka/,http://localhost:8764/eureka/
+    availability-zones:
+      region-east: zone1,zone2

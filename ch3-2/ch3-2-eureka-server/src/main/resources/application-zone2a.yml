@@ -1,5 +1,5 @@
 server:
-  port: 8761
+  port: 8763
 spring:
   application:
     name: eureka-server
@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
     prefer-ip-address: true
     metadata-map:
-      zone: zone1
+      zone: zone2
   client:
     register-with-eureka: true
     fetch-registry: true
