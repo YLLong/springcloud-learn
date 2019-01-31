@@ -9,12 +9,10 @@
         <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yll</groupId>
-    <artifactId>ch4-1-hello</artifactId>
+    <artifactId>ch4-1-gzip</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ch4-1-hello</name>
+    <name>ch4-1-gzip</name>
     <description>Demo project for Spring Boot</description>
-
-    <url>http://springcloud.cn</url>
 
     <properties>
         <java.version>1.8</java.version>
@@ -32,6 +30,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
