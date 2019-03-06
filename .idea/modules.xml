@@ -3,14 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-client/ch2-1-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch2-1/ch2-1-eureka-server/ch2-1-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-config-server/ch3-1-config-server.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-config-server/ch3-1-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-config-server/ch3-1-config-server.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-config-server/ch3-1-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-eureka-client/ch3-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-eureka-client/ch3-1-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-eureka-client/ch3-1-eureka-client.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-eureka-client/ch3-1-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-eureka-server/ch3-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-eureka-server/ch3-1-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-1/ch3-1-eureka-server/ch3-1-eureka-server.iml" filepath="$PROJECT_DIR$/ch3-1/ch3-1-eureka-server/ch3-1-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-client/ch3-2-eureka-client.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2-eureka-client/ch3-2-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-client/ch3-2-eureka-client.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2-eureka-client/ch3-2-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-server/ch3-2-eureka-server.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2-eureka-server/ch3-2-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch3-2/ch3-2-eureka-server/ch3-2-eureka-server.iml" filepath="$PROJECT_DIR$/ch3-2/ch3-2-eureka-server/ch3-2-eureka-server.iml" />
     </modules>
   </component>

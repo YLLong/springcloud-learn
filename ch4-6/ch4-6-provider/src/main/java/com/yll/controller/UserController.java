@@ -21,9 +21,9 @@ public class UserController implements UserService {
     }
 
     /**
-     * @RequestBody 不要忘记写
+     * @RequestBody 不
      * @param user
-     * @return
+     * @return要忘记写
      */
     @Override
     public String updateUser(@RequestBody User user) {
