@@ -1,0 +1,9 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: sc-provider-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.host:127.0.0.1}:${eureka.port:8761}/eureka/
