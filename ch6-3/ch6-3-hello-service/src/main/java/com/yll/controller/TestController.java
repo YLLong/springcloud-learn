@@ -26,4 +26,9 @@ public class TestController {
         return userService.getProviderData();
     }
 
+    @GetMapping("/helloService")
+    public String getHelloServiceData() {
+        return "hello service";
+    }
+
 }

@@ -9,9 +9,9 @@
         <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yll</groupId>
-    <artifactId>ch6-3-provider-service</artifactId>
+    <artifactId>ch6-3-turbine</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ch6-3-provider-service</name>
+    <name>ch6-3-turbine</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
@@ -21,11 +21,15 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+            <artifactId>spring-cloud-starter-netflix-turbine</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
+            <artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
         </dependency>
     </dependencies>
 

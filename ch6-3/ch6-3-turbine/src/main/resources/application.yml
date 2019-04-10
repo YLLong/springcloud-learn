@@ -1,0 +1,12 @@
+management:
+  endpoint:
+    hystrix:
+      stream:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+turbine:
+  app-config: sc-hello-service,sc-provider-service
+  cluster-name-expression: "'default'"
