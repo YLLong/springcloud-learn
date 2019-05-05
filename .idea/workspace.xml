@@ -14,19 +14,31 @@
       <change afterPath="$PROJECT_DIR$/ch4-5/ch4-5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ch4-6/ch4-6.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ch5-1/ch5-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/Ch63HystrixExceptionServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/controller/ExceptionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/FeignErrorDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/PSFallbackBadRequestExpcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/PSFallbackOtherExpcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/ProviderServiceCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/test/java/com/yll/Ch63HystrixExceptionServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/java/com/yll/Ch64EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/test/java/com/yll/Ch64EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/Ch64ProviderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/controller/ProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/test/java/com/yll/Ch64ProviderServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/ch6-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6-4/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -92,6 +104,9 @@
     <ignored path="$PROJECT_DIR$/ch6-3/ch6-3-provider-service/target/" />
     <ignored path="$PROJECT_DIR$/ch6-3/ch6-3-turbine/target/" />
     <ignored path="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/target/" />
+    <ignored path="$PROJECT_DIR$/ch6-4/target/" />
+    <ignored path="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/target/" />
+    <ignored path="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,104 +114,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/PSFallbackBadRequestExpcetion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/PSFallbackOtherExpcetion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/ProviderServiceCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/controller/ExceptionController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#1447#1448#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/maven-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/MavenWrapperDownloader.java">
+        <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#4629#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Future.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="148" column="20" lean-forward="true" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+            <state relative-caret-position="510">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -220,6 +146,19 @@
         <option value="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/PSFallbackOtherExpcetion.java" />
         <option value="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/service/dataservice/ProviderServiceCommand.java" />
         <option value="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/controller/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/java/com/yll/Ch64EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/model/User.java" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/controller/ProviderController.java" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/boostrap.yml" />
+        <option value="$PROJECT_DIR$/ch6-3/ch6-3-provider-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/Ch64ProviderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/ch6-4/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6-3/ch6-3-turbine/.gitignore" />
       </list>
     </option>
   </component>
@@ -453,6 +392,7 @@
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
         <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" />
+        <option value="$PROJECT_DIR$/ch6-4/ch6-4.iml" />
       </list>
     </option>
   </component>
@@ -468,68 +408,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-eureka-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch6-3" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6-3-provider-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ch6-4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -537,7 +436,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -859,6 +758,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ch64EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch6-4-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yll.Ch64EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch64ProviderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch6-4-provider-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yll.Ch64ProviderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -871,17 +788,27 @@
       <option name="presentableId" value="Default" />
       <updated>1555250334010</updated>
       <workItem from="1555250347259" duration="91000" />
-      <workItem from="1555377215388" duration="7402000" />
+      <workItem from="1555377215388" duration="15419000" />
+      <workItem from="1555467841538" duration="9393000" />
     </task>
+    <task id="LOCAL-00001" summary="hystrix exception demo">
+      <created>1555407744733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555407744734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7493000" />
+    <option name="totallyTimeSpent" value="24903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986226" visible="true" weight="0.19087404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986226" visible="true" weight="0.218509" />
       <window_info id="Structure" order="1" sideWeight="0.5013774" side_tool="true" weight="0.19087404" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -891,9 +818,6 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Learn" order="8" />
       <window_info id="Web" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292011" />
@@ -911,7 +835,9 @@
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" />
+      <window_info anchor="bottom" id="Messages" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -921,10 +847,15 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hystrix exception demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hystrix exception demo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/pom.xml">
@@ -1014,12 +945,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/controller/ExceptionController.java">
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/maven-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/MavenWrapperDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
           <folding>
-            <element signature="e#1447#1448#0" expanded="true" />
+            <element signature="e#0#4629#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1027,17 +964,189 @@
     <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/MavenWrapperDownloader.java">
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/src/main/java/com/yll/controller/ExceptionController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="247">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
-            <element signature="e#0#4629#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/.mvn/wrapper/maven-wrapper.properties">
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/ch6-3-provider-service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-dashboard/ch6-3-hystrix-dashboard.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-2/ch6-2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/src/main/java/com/yll/Ch64EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/controller/ProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/2.0.0.RELEASE/spring-cloud-netflix-core-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/hystrix/HystrixStreamEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.7.RELEASE/spring-boot-actuator-autoconfigure-2.0.7.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/endpoint/web/WebEndpointProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1856#1857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/src/main/java/com/yll/Ch63ProviderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-827" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/ch6-4-provider-service.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/java/com/yll/Ch64ProviderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-3/ch6-3-turbine/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -1091,7 +1200,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ch6-3-hystrix-exception-service</last-edited>
+          <last-edited>ch6-4-provider-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

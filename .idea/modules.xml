@@ -63,6 +63,9 @@
       <module fileurl="file://$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/ch6-3-hystrix-exception-service.iml" filepath="$PROJECT_DIR$/ch6-3/ch6-3-hystrix-exception-service/ch6-3-hystrix-exception-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch6-3/ch6-3-provider-service/ch6-3-provider-service.iml" filepath="$PROJECT_DIR$/ch6-3/ch6-3-provider-service/ch6-3-provider-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch6-3/ch6-3-turbine/ch6-3-turbine.iml" filepath="$PROJECT_DIR$/ch6-3/ch6-3-turbine/ch6-3-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch6-4/ch6-4.iml" filepath="$PROJECT_DIR$/ch6-4/ch6-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/ch6-4-eureka-server.iml" filepath="$PROJECT_DIR$/ch6-4/ch6-4-eureka-server/ch6-4-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch6-4/ch6-4-provider-service/ch6-4-provider-service.iml" filepath="$PROJECT_DIR$/ch6-4/ch6-4-provider-service/ch6-4-provider-service.iml" />
     </modules>
   </component>
 </project>
